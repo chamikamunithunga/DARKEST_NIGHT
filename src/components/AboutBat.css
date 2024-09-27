@@ -1,0 +1,9 @@
+.aboutbat-background {
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    background: url('../assets/bat2.jpg') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

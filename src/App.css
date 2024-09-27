@@ -1,0 +1,25 @@
+/* Global styles for body and html */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif; /* Set a default font */
+  background-image: url(assets/bat.jpg); /* Background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+   /* Keep the background fixed */
+}
+
+/* App container styles */
+.app-container {
+  position: relative; /* Positioned context for child elements */
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff; /* Ensure text is visible */
+  z-index: 1; /* Ensure content is above the background */
+}
+
+

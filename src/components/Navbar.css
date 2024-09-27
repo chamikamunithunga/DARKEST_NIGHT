@@ -1,0 +1,68 @@
+/* Navbar container */
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Space between elements */
+  align-items: center;
+  padding: 1px 30px; /* Reduced padding for a smaller navbar */
+  background: linear-gradient(135deg, #000000, #810303); 
+  position: fixed; /* Fix the navbar at the top */
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  z-index: 1000; 
+  border-radius: 0 0 80px 80px; 
+  box-shadow: 0 4px 15px #ff0000d2; 
+}
+
+/* Logo styling */
+.navbar-logo {
+  margin-right: auto; /* Pushes the logo to the left */
+}
+
+/* Logo styling */
+.navbar-logo img {
+  height: 60px; /* Decreased height for the logo */
+  width: auto; /* Maintain aspect ratio */
+  margin-left: 20px;
+}
+
+/* Links container */
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 20px; /* Reduced gap between links */
+  justify-content: center; /* Center the links within the available space */
+}
+
+.navbar-links li {
+  margin: 0 10px; /* Add margin for spacing */
+}
+
+.navbar-links li a {
+  text-decoration: none;
+  color: #ffffff; /* White text color */
+  transition: color 0.3s ease, transform 0.3s ease; /* Add transform transition */
+  padding: 5px 8px; /* Adjusted padding for better clickable area */
+  border-radius: 5px; /* Rounded corners for links */
+  font-size: 16px; /* Decreased font size for links */
+}
+
+.navbar-links li a:hover {
+  color: #ff4500; /* Change color on hover */
+  transform: scale(1.05); /* Slightly enlarge link on hover */
+}
+
+/* Video container */
+.video-container {
+  margin-right: 20px; /* Space between the video and navbar */
+}
+
+/* Character image styling */
+.character-image {
+  margin-left: 20px; /* Space between the navbar and character image */
+}
+
+.character-image img {
+  height: 60px; /* Set the height for the character image */
+  width: auto; /* Maintain aspect ratio */
+}

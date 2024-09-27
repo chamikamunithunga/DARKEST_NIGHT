@@ -1,0 +1,9 @@
+.Movies-background {
+    width: 100%;
+    height: 100vh; /* Full viewport height */
+    background: url('../assets/abt.jpg') center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
