@@ -1,4 +1,6 @@
-DARKEST_NIGHT** is a web application dedicated to exploring the unknown depths of Batman's universe. Users can dive into the rich history of the Dark Knight, stay updated with the latest news, discover movie ratings and details, learn about iconic actors, and get insights into future films. This platform offers an immersive experience for fans and newcomers alike, with premium images and animations that bring Gotham City to life.
+DARKEST_NIGHT
+--------------
+is a web application dedicated to exploring the unknown depths of Batman's universe. Users can dive into the rich history of the Dark Knight, stay updated with the latest news, discover movie ratings and details, learn about iconic actors, and get insights into future films. This platform offers an immersive experience for fans and newcomers alike, with premium images and animations that bring Gotham City to life.
 ----------------------------------
 ![Screenshot 2024-09-27 at 11 26 28 PM](https://github.com/user-attachments/assets/e1cecdee-8e68-4452-977a-578b25532588)
 
