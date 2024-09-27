@@ -4,6 +4,7 @@ Is a web application dedicated to exploring the unknown depths of Batman's unive
 --------------------------------------------------------------
 ![33D25DB3-630B-4BEB-9950-01463A82D093](https://github.com/user-attachments/assets/952540dc-059a-46e3-975e-810cf777cbcf)
 ----------------------------------------------------------------------------------------------------------------------------
+![C1F2B12E-3B24-42B3-8013-2A5443FF09B0](https://github.com/user-attachments/assets/de760c09-07f3-46f1-b087-6b8ff906e100)
 
 
 ![Screenshot 2024-09-27 at 11 26 28 PM](https://github.com/user-attachments/assets/e1cecdee-8e68-4452-977a-578b25532588)
